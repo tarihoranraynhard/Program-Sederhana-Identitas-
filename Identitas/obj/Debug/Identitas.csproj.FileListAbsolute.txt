@@ -1,0 +1,7 @@
+D:\ProjectSharpDevelop\Identitas\bin\Debug\Identitas.exe
+D:\ProjectSharpDevelop\Identitas\bin\Debug\Identitas.pdb
+D:\ProjectSharpDevelop\Identitas\obj\Debug\Identitas.csprojResolveAssemblyReference.cache
+D:\ProjectSharpDevelop\Identitas\obj\Debug\Identitas.MainForm.resources
+D:\ProjectSharpDevelop\Identitas\obj\Debug\Identitas.csproj.GenerateResource.Cache
+D:\ProjectSharpDevelop\Identitas\obj\Debug\Identitas.exe
+D:\ProjectSharpDevelop\Identitas\obj\Debug\Identitas.pdb
